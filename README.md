@@ -19,7 +19,7 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
+| XN**modelo de X-NODE**?  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
 
 
