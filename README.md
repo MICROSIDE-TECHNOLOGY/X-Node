@@ -2,22 +2,47 @@
 ![Screenshot](xide.png)
 
 
-# X-Node by Microside 
+# X-Node by Microside  🇬🇧 
+
+Welcome to oficial Xide repository, here you can found the last version of software develop like examples and tutorial to correct use of X-NODE modules.
+
+You can found examples to use X-NODE with 
+
+- MXCHIP IoT DevKit 
+- bbc micro:bit 
+
+## Generic command list of X-NODE
+
+
+| Command |  Description |
+| ------------- | ------------- |
+| XN**X-NODE model**?  | chek if have a successfully conection  |
+| XN**X-NODE model**+id = (AJ)  | Change the subscript of ID, after to modify if you try to change again the ID, is necessary use the new ID |
+| XN**X-NODE model**+g  | Get a simple value od X-NODE module  |
+| XN**X-NODE model**+G  | Get a value with id X-NODE in the answer   |
+
+
+
+
+
+
+
 ## for more information visit:  [Xide.pro](https://xide.pro/)
 
+# X-Node de Microside  🇪🇸
 
-
-bienvenido al repositorio oficial de Xide, aqui podras encontrar las versiones mas actualizadas del software que se desarrolle, asi como los ejemplos y practicas, ademas de contar con la documentación oficial
-
-Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas: 
-
+ 
+Bienvenido al repositorio oficial de Xide, aquí se  encuentran las versiones más actualizadas del software que se desarrolle, así como los ejemplos y prácticas, además de contar con la documentación oficial
+ 
+Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
+ 
 - MXCHIP IoT DevKit
-- micro:bit 
+- bbc micro:bit
 
 ## Lista genérica de comandos para módulos X-NODE
 
 
-| Primer encabezado | Segundo encabezado |
+| Comando | Descripción |
 | ------------- | ------------- |
 | XN**modelo de X-NODE**?  | Verifica si se estableció la comunicación con éxito  |
 | XN**modelo de X-NODE**+id = (AJ)  | Cambia el subíndice del ID, una vez modificado para volver a cambiarlo es necesario colocar el ID con el nuevo subíndice  |
@@ -28,5 +53,5 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 
 
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
+## Para más información visite:  [Xide.pro](https://xide.pro/)
