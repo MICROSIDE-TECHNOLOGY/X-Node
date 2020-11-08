@@ -16,14 +16,22 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 
 ## Lista genérica de comandos para módulos X-NODE
 
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
+
+
 | Comando | Descripción |
 | --- | --- |
 
 
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicación con exito  |
-| XN**modelo de X-NODE**+id = (A-J) | ambia el subíndice del ID, una vez modificado para volver a cambiarlo es necesario colocar el ID con el nuevo subíndice  |
+| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
+| XN**modelo de X-NODE**+id = (AJ) | ambia el subíndice del ID, una vez modificado para volver a cambiarlo es necesario colocar el ID con el nuevo subindice  |
 | XN**modelo de X-NODE**+g | Obtiene el valor simple del modulo X-NODE |
-| XN**modelo de X-NODE**+G | Obtener el valor con id del módulo X-NODE |
+| XN**modelo de X-NODE**+G | Obtener el valor con id del modulo X-NODE |
 
 
 
