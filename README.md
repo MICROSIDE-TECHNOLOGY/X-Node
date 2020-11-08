@@ -20,9 +20,9 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
 | XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
+| XN**modelo de X-NODE**+id = (AJ)  | Verifica si se establecio la comunicacion con exito  |
+| XN**modelo de X-NODE**+g  | Verifica si se establecio la comunicacion con exito  |
+| XN**modelo de X-NODE**+G  | Verifica si se establecio la comunicacion con exito  |
 | Contenido de la celda  | Contenido de la celda  |
 
 
