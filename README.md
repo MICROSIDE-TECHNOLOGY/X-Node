@@ -2,7 +2,7 @@
 ![Screenshot](xide.png)
 
 
-# X-Node by Microside    (🇬🇧 English Version) 
+### X-Node by Microside    (🇬🇧 English Version) 
 
 Welcome to oficial Xide repository, here you can found the last version of software develop like examples and tutorial to correct use of X-NODE modules.
 
@@ -11,7 +11,7 @@ You can found examples to use X-NODE with
 - MXCHIP IoT DevKit 
 - bbc micro:bit 
 
-## Generic command list of X-NODE
+###### Generic command list of X-NODE
 
 
 | Command |  Description |
@@ -27,9 +27,9 @@ You can found examples to use X-NODE with
 
 
 
-## for more information visit:  [Xide.pro](https://xide.pro/)
+###### for more information visit:  [Xide.pro](https://xide.pro/)
 
-# X-Node de Microside   (🇪🇸 Versión en Español)
+### X-Node de Microside   (🇪🇸 Versión en Español)
 
  
 Bienvenido al repositorio oficial de Xide, aquí se  encuentran las versiones más actualizadas del software que se desarrolle, así como los ejemplos y prácticas, además de contar con la documentación oficial
@@ -39,7 +39,7 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 - MXCHIP IoT DevKit
 - bbc micro:bit
 
-## Lista genérica de comandos para módulos X-NODE
+###### Lista genérica de comandos para módulos X-NODE
 
 
 | Comando | Descripción |
@@ -54,4 +54,4 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 
 
 
-## Para más información visite:  [Xide.pro](https://xide.pro/)
+###### Para más información visite:  [Xide.pro](https://xide.pro/)
