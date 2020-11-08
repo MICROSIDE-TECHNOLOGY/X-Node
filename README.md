@@ -19,22 +19,12 @@ Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**+id = (AJ)  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**+g  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**+G  | Verifica si se establecio la comunicacion con exito  |
-| Contenido de la celda  | Contenido de la celda  |
+| XN**modelo de X-NODE**?  | Verifica si se estableció la comunicación con éxito  |
+| XN**modelo de X-NODE**+id = (AJ)  | Cambia el subíndice del ID, una vez modificado para volver a cambiarlo es necesario colocar el ID con el nuevo subíndice  |
+| XN**modelo de X-NODE**+g  | Obtiene el valor simple del modulo X-NODE  |
+| XN**modelo de X-NODE**+G  | Obtiene el valor simple del modulo X-NODE  |
+| Contenido de la celda  | Obtener el valor con id del módulo X-NODE  |
 
-
-
-| Comando | Descripción |
-| --- | --- |
-
-
-| XN**modelo de X-NODE**?  | Verifica si se establecio la comunicacion con exito  |
-| XN**modelo de X-NODE**+id = (AJ) | ambia el subíndice del ID, una vez modificado para volver a cambiarlo es necesario colocar el ID con el nuevo subindice  |
-| XN**modelo de X-NODE**+g | Obtiene el valor simple del modulo X-NODE |
-| XN**modelo de X-NODE**+G | Obtener el valor con id del modulo X-NODE |
 
 
 
