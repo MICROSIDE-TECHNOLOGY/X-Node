@@ -1,5 +1,5 @@
 
-![Screenshot](screenshot.png)
+![Screenshot](xide.png)
 
 
 # X-Node by Microside 
