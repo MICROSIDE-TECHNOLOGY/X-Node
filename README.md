@@ -6,7 +6,7 @@
 
 Welcome to oficial Xide repository, here you can found the last version of software develop like examples and tutorial to correct use of X-NODE modules.
 
-You can found examples to use X-NODE with 
+You can found examples to use X-NODE with
 
 - MXCHIP IoT DevKit 
 - bbc micro:bit 
@@ -37,7 +37,7 @@ Bienvenido al repositorio oficial de Xide, aquí se  encuentran las versiones m�
 Actualmente se cuenta con ejemplos de uso para las siguientes tarjetas:
  
 - MXCHIP IoT DevKit
-- bbc micro:bit
+- BBC micro:bit
 
 ###### Lista genérica de comandos para módulos X-NODE
 
