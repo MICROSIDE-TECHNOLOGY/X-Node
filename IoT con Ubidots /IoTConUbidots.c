@@ -28,8 +28,8 @@ char Node09[]="XB009A";    //ID del X-node
 char Node03GetTemp[]="+GT\r\n";  // Comando para solicitar el dato de temperatura
 char Node03GetHum[]="+GH\r\n";   // Comando para solicitar el dato de humedad
 char Node09GetLum[]="+G\r\n";    // Comando para solicitar el dato de Luminosidad
-char SSID[]="esptest1";        //Sustituir por el nombre de tu red WiFi
-char PASS[]="esptestpass";     //Sustituir por la clave de tu red WiFi
+char SSID[]="XXXXXXXXX";        //Sustituir por el nombre de tu red WiFi
+char PASS[]="XXXXXXXXX";     //Sustituir por la clave de tu red WiFi
 char CommandUBI[]="XB016A+OU=";  //Comando para configurar la conexion con Ubidots
 
 char Token[]="BBFF-AkKMkWNQ32JyzXYY8M7OupTDsusZFv"; //Sustituye por tu token de Ubidots 
